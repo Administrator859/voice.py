@@ -1,0 +1,10 @@
+*****YOU CAN INSTALL IT IN COMMAND PROMPT******
+
+playsound==1.2.2
+gTTS==2.1.1
+SpeechRecognition==3.8.1
+pyttsx3==2.87
+requests==2.23.0
+
+***YOU CAN DOWNLOAD IT HERE***  https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+pyaudio==0.2.11
