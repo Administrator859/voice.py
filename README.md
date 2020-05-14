@@ -1,3 +1,3 @@
 # voice Assistant
-this is an Voice Assistant
+this is a Voice Assistant
 Playing sound with gTTS 
